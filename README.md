@@ -7,6 +7,7 @@ Construyo aplicaciones completas de principio a fin: Android nativo en Kotlin/Co
 ### Proyectos destacados
 
 - **[Sello](https://github.com/ferchio9/sello-showcase)**: control horario para pymes. App Android nativa (Kotlin, Jetpack Compose), PWA en React y backend Spring Boot + PostgreSQL, con fichaje sin conexión y sincronización idempotente.
+- **[Clarisan](https://github.com/ferchio9/clarisan-showcase)**: plantilla web estática en Astro para consultas sanitarias (tres presets, demos bajo un mismo dominio con Next.js Multi-Zones) y un flujo de compra propio: webhook de Stripe con firma verificada y fulfillment idempotente, licencias derivadas con HMAC y descarga protegida con consentimiento de desistimiento. [Dossier técnico](https://fherrera.dev/clarisan/dossier-tecnico).
 - **[mineuropsicologo.es](https://github.com/ferchio9/mineuropsicologo-web)**: web profesional de un neuropsicólogo clínico, hecha con Astro y Tailwind. Accesible, con SEO técnico y 99–100 en rendimiento según Lighthouse.
 
 ### Stack principal
